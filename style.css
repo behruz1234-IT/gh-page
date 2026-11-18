@@ -32,7 +32,7 @@ ul{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: rgb(35, 202, 202);
+    background-color: rgb(183, 255, 255);
 }
 .box3{
      width: 100%;
@@ -45,14 +45,14 @@ ul{
 button{
     width: 100px;
     height: 50px;
-    background-color: aquamarine;
+    background-color: rgb(199, 231, 221);
     color: rgb(0, 0, 0);
 }
 
 footer{
     width: 100%;
     height: 100px;
-    background-color: burlywood;
+    background-color: rgb(255, 217, 168);
     display: flex;
     flex-direction: column;
     color: rgb(0, 0, 0);
